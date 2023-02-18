@@ -1,4 +1,4 @@
-![Stack Legend](cover-stacklegend.jpg "Stack Legend")
+![Stack Legend](./cover-stacklegend.jpg "Stack Legend")
 
 # Welcome to Stack Legend!
 
