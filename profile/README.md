@@ -1,3 +1,5 @@
+![Stack Legend](cover-stacklegend.jpg "Stack Legend")
+
 # Welcome to Stack Legend!
 
 We are a team of experts specializing in delivering business solutions through software development (Dev) and IT operations (Ops). Our extensive experience in the industry allows us to provide high-quality services to our clients. We are dedicated to helping businesses succeed by providing innovative solutions that meet their specific needs. Whether it's development, system administration, hosting, or cloud services, we have the expertise to help your business reach new heights.
