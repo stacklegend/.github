@@ -1,4 +1,4 @@
-![Stack Legend](./cover-stacklegend.jpg "Stack Legend")
+![Stack Legend](https://raw.githubusercontent.com/stacklegend/.github/main/profile/cover-stacklegend.jpg "Stack Legend")
 
 # Welcome to Stack Legend!
 
