@@ -67,3 +67,10 @@ More information on our webiste: https://stacklegend.com/hosting-services/
 - Storage and Backup
 - Dedicated Servers
 - Virtual Private Servers
+
+## Contact us
+- Via our website: https://stacklegend.com/contact/
+- Facebook: https://www.facebook.com/stacklegend/
+- Twitter: https://twitter.com/TheStackLegend/
+- LinkedIn: https://www.linkedin.com/company/stacklegend/
+- Instagram: https://www.instagram.com/stacklegendofficial/
