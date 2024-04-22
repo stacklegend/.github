@@ -1,12 +1,12 @@
-![Stack Legend](https://raw.githubusercontent.com/stacklegend/.github/main/profile/cover-stacklegend.jpg "Stack Legend")
+![Stacklegend](https://raw.githubusercontent.com/stacklegend/.github/main/profile/cover-stacklegend.jpg "Stacklegend")
 
-# Welcome to Stack Legend!
+# Welcome to Stacklegend!
 
 We are a team of experts specializing in delivering business solutions through software development (Dev) and IT operations (Ops). Our extensive experience in the industry allows us to provide high-quality services to our clients. We are dedicated to helping businesses succeed by providing innovative solutions that meet their specific needs. Whether it's development, system administration, hosting, or cloud services, we have the expertise to help your business reach new heights.
 
 Visit our webiste: https://stacklegend.com
 
-## Building the digital future with Stack Legend
+## Building the digital future with Stacklegend
 
 The digital future refers to a vision where technology and information play a significant role in our lives and in the way businesses operate. It means that processes, communication, and business decisions are mostly done digitally, enabling quick transfer and processing of information and more efficient operations. The digital future often includes advancements in cloud-based services, automated processes, and improved cybersecurity.
 
