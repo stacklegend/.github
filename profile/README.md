@@ -126,3 +126,10 @@ solutions.
 - Twitter: https://twitter.com/TheStackLegend/
 - LinkedIn: https://www.linkedin.com/company/stacklegend/
 - Instagram: https://www.instagram.com/stacklegendofficial/
+
+## Other links
+
+- Stacklegend on Cloudflare: https://stacklegend.pages.dev/
+- Stacklegend on Vercel: https://stacklegend.vercel.app/
+- Stacklegend on Netlify: https://stacklegend.netlify.app/
+- Stacklegend on Render: https://stacklegend.onrender.com/
